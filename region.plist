@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>US</key>
+	<array>
+		<string>District of Columbia</string>
+		<string>Alabama</string>
+		<string>Alaska</string>
+		<string>Arizona</string>
+		<string>Arkansas</string>
+		<string>California</string>
+		<string>Colorado</string>
+		<string>Connecticut</string>
+		<string>Delaware</string>
+		<string>Florida</string>
+		<string>Georgia</string>
+		<string>Hawaii</string>
+		<string>Idaho</string>
+		<string>Illinois</string>
+		<string>Indiana</string>
+		<string>Iowa</string>
+		<string>Kansas</string>
+		<string>Kentucky</string>
+		<string>Louisiana</string>
+		<string>Maine</string>
+		<string>Maryland</string>
+		<string>Massachusetts</string>
+		<string>Michigan</string>
+		<string>Minnesota</string>
+		<string>Mississippi</string>
+		<string>Missouri</string>
+		<string>Montana</string>
+		<string>Nebraska</string>
+		<string>Nevada</string>
+		<string>New Hampshire</string>
+		<string>New Jersey</string>
+		<string>New Mexico</string>
+		<string>New York</string>
+		<string>North Carolina</string>
+		<string>North Dakota</string>
+		<string>Ohio</string>
+		<string>Oklahoma</string>
+		<string>Oregon</string>
+		<string>Pennsylvania</string>
+		<string>Rhode Island</string>
+		<string>South Carolina</string>
+		<string>South Dakota</string>
+		<string>Tennessee</string>
+		<string>Texas</string>
+		<string>Utah</string>
+		<string>Vermont</string>
+		<string>Virginia</string>
+		<string>Washington</string>
+		<string>West Virginia</string>
+		<string>Wisconsin</string>
+		<string>Wyoming</string>
+		<string>American Samoa</string>
+		<string>Guam</string>
+		<string>Nothern Mariana Islands</string>
+		<string>Puerto Rico</string>
+		<string>U.S Virgin Islands</string>
+	</array>
+	<key>JP</key>
+	<array>
+		<string>hokkaido</string>
+		<string>aomori</string>
+		<string>iwate</string>
+		<string>akita</string>
+		<string>miyagi</string>
+		<string>yamagata</string>
+		<string>fukushima</string>
+		<string>ibaraki</string>
+		<string>tochigi</string>
+		<string>gunma</string>
+		<string>chiba</string>
+		<string>saitama</string>
+		<string>tokyo</string>
+		<string>kanagawa</string>
+		<string>yamanashi</string>
+		<string>niigata</string>
+		<string>nagano</string>
+		<string>shizuoka</string>
+		<string>gifu</string>
+		<string>toyama</string>
+		<string>ishikawa</string>
+		<string>aichi</string>
+		<string>fukui</string>
+		<string>shiga</string>
+		<string>kyoto</string>
+		<string>osaka</string>
+		<string>mie</string>
+		<string>nara</string>
+		<string>wakayama</string>
+		<string>hyogo</string>
+		<string>okayama</string>
+		<string>tottori</string>
+		<string>shimane</string>
+		<string>hiroshima</string>
+		<string>yamaguchi</string>
+		<string>kagawa</string>
+		<string>tokushima</string>
+		<string>ehime</string>
+		<string>kochi</string>
+		<string>fukuoka</string>
+		<string>oita</string>
+		<string>miyazaki</string>
+		<string>kumamoto</string>
+		<string>kagoshima</string>
+		<string>saga</string>
+		<string>nagasaki</string>
+		<string>okinawa</string>
+	</array>
+</dict>
+</plist>

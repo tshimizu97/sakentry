@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Sakentry
+
+  Created by Takao Shimizu on 2021/01/09.
+  
+*/
+
+"lang_code" = "en";
+
+"en" = "English";
+"ja" = "Japanese";
+
+"search" = "Search";
+"camera" = "Camera";
+"profile" = "Profile";
+
+"cancel" = "Cancel";
+
+"search sake" = "Search Sake";
+"edit_profile" = "Edit Your Profile";
+
+"junmai-kei" = "Junmai-kei";
+"junmai-shu" = "Junmai-shu";
+"tokubetsu-junmai-shu" = "Tokubetsu-junmai-shu";
+"junmai-ginjo-shu" = "Junmai-ginjo-shu";
+"junmai-dai-ginjo-shu" = "Junmai-dai-ginjo-shu";
+"honjozo-kei" = "Honjozo-kei";
+"tokubetsu-honjozo-shu" = "Tokubetsu-honjozo-shu";
+"ginjo-shu" = "Ginjo-shu";
+"dai-ginjo-shu" = "Dai-ginjo-shu";
+"kijo-shu" = "Kijo-shu";
+"futsu-shu" = "Futsu-shu";

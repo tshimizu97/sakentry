@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Sakentry
+
+  Created by Takao Shimizu on 2021/01/09.
+  
+*/
+
+"lang_code" = "ja";
+
+"en" = "英語";
+"ja" = "日本語";
+
+"search sake" = "日本酒を探す";
+"edit_profile" = "プロフィールを編集する";

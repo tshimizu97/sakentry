@@ -1,0 +1,6 @@
+framework module Pods_Sakentry__iOS_ {
+  umbrella header "Pods-Sakentry (iOS)-umbrella.h"
+
+  export *
+  module * { export * }
+}
